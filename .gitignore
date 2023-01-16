@@ -1,1 +1,3 @@
 .ipynb_checkpoints/
+python_notebooks/__pycache__/
+*.pkl
